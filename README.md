@@ -7,11 +7,63 @@ Experienced Blockchain Developer with 6 years of experience in blockchain techno
 
 ---
 
-### Skills
+#### Programming Languages
+- **Solidity**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 90%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">90%</div>
+  </div>
+- **JavaScript**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 85%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">85%</div>
+  </div>
+- **Python**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 80%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">80%</div>
+  </div>
+- **Go**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 75%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">75%</div>
+  </div>
+- **C++**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 70%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">70%</div>
+  </div>
+- **Rust**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 65%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">65%</div>
+  </div>
 
-- **Programming Languages:** Solidity, JavaScript, Python, Go, C++, Rust
-- **Blockchain Technologies:** Ethereum, Hyperledger, Solana, Polkadot / Substrate, NFT, Web3
-- **Other:** DevOps
+#### Blockchain Technologies
+- **Ethereum**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 90%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">90%</div>
+  </div>
+- **Hyperledger**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 85%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">85%</div>
+  </div>
+- **Solana**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 80%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">80%</div>
+  </div>
+- **Polkadot / Substrate**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 75%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">75%</div>
+  </div>
+- **NFT**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 70%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">70%</div>
+  </div>
+- **Web3**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 65%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">65%</div>
+  </div>
+
+#### Other
+- **DevOps**
+  <div style="width: 100%; background-color: #e0e0e0;">
+    <div style="width: 80%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">80%</div>
+  </div>
 
 ---
 
