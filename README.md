@@ -139,12 +139,16 @@
 
 # 🔨📊👨‍💻📂 GitHub Activities:
 
-<img width = "100%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=ethtop90&hide_border=false&include_all_commits=false&count_private=true">
+<img width = "100%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=sailingdev&hide_border=false&include_all_commits=false&count_private=true">
 
-<img width = "100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ethtop90&hide_border=false"> 
+<img width = "100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sailingdev&hide_border=false"> 
 
-<img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethtop90&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-
+<img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailingdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sailingdev&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+    &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sailingdev&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+</p> 
 # 💻📚 Tech Stack: 
 ![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E)
 ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)
