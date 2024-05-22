@@ -7,7 +7,9 @@ Experienced Blockchain Developer with 6 years of experience in blockchain techno
 
 ---
 
-#### Programming Languages
+# Skills
+
+## Programming Languages
 - **Solidity**
   <div style="width: 100%; background-color: #e0e0e0;">
     <div style="width: 90%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">90%</div>
@@ -33,7 +35,7 @@ Experienced Blockchain Developer with 6 years of experience in blockchain techno
     <div style="width: 65%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">65%</div>
   </div>
 
-#### Blockchain Technologies
+## Blockchain Technologies
 - **Ethereum**
   <div style="width: 100%; background-color: #e0e0e0;">
     <div style="width: 90%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">90%</div>
@@ -59,12 +61,11 @@ Experienced Blockchain Developer with 6 years of experience in blockchain techno
     <div style="width: 65%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">65%</div>
   </div>
 
-#### Other
+## Other
 - **DevOps**
   <div style="width: 100%; background-color: #e0e0e0;">
     <div style="width: 80%; background-color: #4caf50; text-align: center; padding: 2px 0; color: white;">80%</div>
   </div>
-
 ---
 
 ### Work Experience
