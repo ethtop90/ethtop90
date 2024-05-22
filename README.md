@@ -1,16 +1,5 @@
----
-
-## ![Profile Picture](https://via.placeholder.com/150) Yoshiyuki Kamae
-
 ### Blockchain Developer
 
-#### Contact Information
-- **Website:** [www.reallygreatsite.com](http://www.reallygreatsite.com)
-- **Email:** [fullsuccess.world@gmail.com](mailto:fullsuccess.world@gmail.com)
-- **Location:** Toshima-ku, Tokyo
-- **Phone:** +503-185-8105
-
----
 
 ### About Me
 
